@@ -1,5 +1,5 @@
 # Fantomatic
- In this project, is inspired by Codecademy flex-box design. The responsiveness of the page was obtained through the use of  css @media rules and css3 flex box. This was achieved locally using atom, the command line, and git and git-hub.
+ This project, is inspired by Codecademy's css3 flex-box design. The responsiveness of the page was obtained through the use of  css @media rules and css3 flex box. This was achieved locally using atom, the command line, and git and git-hub.
 ## Table of contents
 * [General info](#general-info)
 * [Project-Objectives](#project-objectives)
